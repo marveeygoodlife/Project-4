@@ -142,22 +142,15 @@
         font-size: 1em;
     }
 
-    /* Additional styles specific to iPad or larger screens */
-    #mydiv {
-        width: 750px; /* Adjust as needed */
-        margin: 5% auto;
-        display: block;
-        border: 3px solid rgb(105, 176, 220);
-        border-radius: 16px;
-    }
+    
 }
 
 
 #mydiv {
-     width: 500px;
-    margin:  4% auto;
+      width: 500px;
+    margin:  5% auto;
     display: block;
-    border: 2px solid rgb(105, 176, 220);
+    border: 2px solid #d3eaf2;
     border-radius: 13px;
 }
 
@@ -245,14 +238,15 @@ text-align: center;
     width: 100px;
     height: 100px;
     border-radius: 50%;
-    background-color:#e6f2ff ;
-    border: 3px solid #116482;
+     border: 3px solid #116482;
     display: flex;
     align-items: center;
     justify-content:center;
-    color:  #116482;
-    font-family: "kanit";
+     font-family: "kanit";
     font-size: 16px;
+    background-image: url(/images/bubbles.jpg.jpg);
+     background-repeat: no-repeat;
+    background-size: cover;
     transition: transform 0.3s ease-in-out;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   }
@@ -262,15 +256,14 @@ text-align: center;
   }
 
   .feature-item i {
-    font-size: 1.2rem;
-     text-align: center;
-    color: #0066cc;
+      text-align:center;
+    color: #ffffff;
     }
 
     .feature-item p {
-        margin-top: 20px;
+        margin-top: 10px;
         font-size: 1em;
-        color: #333333;
+        color: #ffffff;
     }
 
 
@@ -300,4 +293,4 @@ justify-content: space-between;
 }
 
 
-
+ 
