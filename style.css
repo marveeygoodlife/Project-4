@@ -271,14 +271,12 @@ text-align: center;
 .infobar {
 padding: 10px;
 text-align: center;
-background-color:#c9c3c3;
 border-radius: 0 0 10px 10px;
 font-family: "Roboto";
 font-weight: bold;
-background: linear-gradient(to right, #d6d6d6, #b3b3b3,);
 font-size: 1.2em;
 letter-spacing: 1px;
-color: #333333;
+color: #0b0b0b;
 }
 
 .info-bar {
