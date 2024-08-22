@@ -15,7 +15,7 @@ Thanks for checking out my page, this is my first project I built from scratch! 
 
 ### Screenshot
 
-![End result of my project](img/Screenshot_21-8-2024_213410_127.0.0.1.jpeg)
+![End result of my project](./Screenshot_21-8-2024_213410_127.0.0.1.jpeg)
 
 ### Links
 
